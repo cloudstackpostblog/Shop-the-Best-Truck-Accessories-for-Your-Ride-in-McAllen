@@ -87,7 +87,7 @@ nav.nav-menu {
 }
 /* Change the color of links on hover */
 .topnav a:hover {
-  color: #9aca3c;
+  color: #b21100;
 }
 /* Right-aligned section inside the top navigation */
 .topnav-right {
@@ -116,7 +116,7 @@ nav.nav-menu {
     color: #000000;
   }
   a:hover{
-    color: #290ac4;
+    color: #84848b;
   }
   section {
     margin-bottom: 20px;
@@ -130,7 +130,7 @@ nav.nav-menu {
     margin: 20px 0 0 50px;
     padding: 10px 40px; 
     width: fit-content;
-    background: #9aca3c;
+    background: #b21100;
     border-radius: 5px;
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -150,7 +150,7 @@ nav.nav-menu {
     }
   .button-link:hover {
     transform: scale(1.05);
-    background-color: #9aca3c;
+    background-color: #b21100;
   }
   .button-link1:hover {
       transform: scale(1.05);
